@@ -7,5 +7,7 @@ Node v12.13.1
 Web3.js v1.2.1
 `
 2 ERC-721 Token Name:	StarCoin
+
 3 ERC-721 Token Symbol:	SC
+
 4 "Token Address” on the Rinkeby Network	0xBcED985151b8B4aB46F65CC0541ec7A1A27D50B6
